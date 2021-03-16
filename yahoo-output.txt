@@ -1,0 +1,138 @@
+Gathering information on yahoo.ca
+[0;32m--- CHECKING FOR HEARTBEAT ---[0m
+PING yahoo.ca (98.136.103.23) 56(84) bytes of data.
+64 bytes from w2.src.vip.gq1.yahoo.com (98.136.103.23): icmp_seq=1 ttl=48 time=7.15 ms
+
+--- yahoo.ca ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 7.159/7.159/7.159/0.000 ms
+[0;34myahoo.ca HAS A STABLE CONNECTION[0m
+[0;32m----- RUNNING TRACEROUTE -----[0m
+traceroute to yahoo.ca (98.136.103.23), 30 hops max, 60 byte packets
+ 1  gateway (142.104.81.1)  0.394 ms  0.389 ms  0.346 ms
+ 2  192.168.9.5 (192.168.9.5)  0.152 ms  0.242 ms  0.171 ms
+ 3  192.168.10.1 (192.168.10.1)  0.578 ms  0.571 ms  0.594 ms
+ 4  192.168.8.6 (192.168.8.6)  0.506 ms  0.442 ms  0.401 ms
+ 5  142.104.100.149 (142.104.100.149)  0.378 ms  0.356 ms  0.352 ms
+ 6  emc1clebi24-oran-ix.uvic.ca (142.104.100.97)  0.913 ms  0.855 ms  0.988 ms
+ 7  362-ix-cr1-uviccle.vctr3.bc.net (207.23.244.229)  1.066 ms  1.055 ms  0.940 ms
+ 8  vctr3rtr2.canarie.ca (199.212.24.98)  1.274 ms  1.193 ms  1.083 ms
+ 9  sttl1rtr2.canarie.ca (206.81.80.189)  3.288 ms  4.137 ms  4.043 ms
+10  six1.yahoo.com (206.81.80.98)  3.359 ms  3.377 ms  3.211 ms
+11  unknown.yahoo.com (216.115.97.107)  6.940 ms  6.945 ms ae-7.pat2.gqb.yahoo.com (209.191.65.45)  7.139 ms
+12  et-18-1-0.msr1.gq1.yahoo.com (66.196.67.103)  7.059 ms et-19-1-0.msr2.gq1.yahoo.com (66.196.67.111)  7.107 ms et-18-1-0.msr1.gq1.yahoo.com (66.196.67.103)  6.912 ms
+13  et-1-1-0.clr1-a-gdc.gq1.yahoo.com (67.195.37.71)  7.045 ms et-0-0-0.clr2-a-gdc.gq1.yahoo.com (67.195.37.73)  7.011 ms et-19-1-0.clr2-a-gdc.gq1.yahoo.com (67.195.37.99)  7.047 ms
+14  lo0.fab8-2-gdc.gq1.yahoo.com (68.180.235.9)  7.124 ms lo0.fab2-2-gdc.gq1.yahoo.com (68.180.235.3)  7.029 ms lo0.fab3-2-gdc.gq1.yahoo.com (68.180.235.4)  7.022 ms
+15  lo0.fab8-1-gdc.gq2.yahoo.com (98.136.159.240)  7.130 ms lo0.fab3-1-gdc.gq2.yahoo.com (98.136.159.245)  7.096 ms lo0.fab4-1-gdc.gq2.yahoo.com (98.136.159.244)  7.086 ms
+16  usw1-1-lbb.gq2.yahoo.com (98.136.158.194)  6.925 ms usw2-1-lbb.gq2.yahoo.com (98.136.158.195)  7.026 ms  7.024 ms
+17  w2.src.vip.gq1.yahoo.com (98.136.103.23)  7.069 ms  7.040 ms  6.982 ms
+[0;32m------- RUNNING WHOIS --------[0m
+Domain Name: yahoo.ca
+Registry Domain ID: D670225-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2020-09-21T04:03:42Z
+Creation Date: 2000-10-04T00:08:36Z
+Registry Expiry Date: 2021-09-21T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 64402069-CIRA
+Registrant Name: Oath (Canada) Corp.
+Registrant Organization:
+Registrant Street: 99 Spadina Ave., Suite 200 & 300
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5V3P8
+Registrant Country: CA
+Registrant Phone: +1.4162638100
+Registrant Phone Ext:
+Registrant Fax: +1.4162638100
+Registrant Fax Ext:
+Registrant Email: domain-admin@oath.com
+Registry Admin ID: 64402182-CIRA
+Admin Name: Andres Lorca
+Admin Organization: Oath (Canada) Corp.
+Admin Street: 99 Spadina Ave., Suite 200
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5V3P8
+Admin Country: CA
+Admin Phone: +1.4162638100
+Admin Phone Ext:
+Admin Fax: +1.4162638100
+Admin Fax Ext:
+Admin Email: domain-admin@oath.com
+Registry Tech ID: 64402182-CIRA
+Tech Name: Andres Lorca
+Tech Organization: Oath (Canada) Corp.
+Tech Street: 99 Spadina Ave., Suite 200
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5V3P8
+Tech Country: CA
+Tech Phone: +1.4162638100
+Tech Phone Ext:
+Tech Fax: +1.4162638100
+Tech Fax Ext:
+Tech Email: domain-admin@oath.com
+Registry Billing ID: 73886904-CIRA
+Billing Name: CCOPS Billing
+Billing Organization: MarkMonitor Inc.
+Billing Street: 3540 East Longwing Lane, Suite 300
+Billing City: Meridian
+Billing State/Province: ID
+Billing Postal Code: 83646
+Billing Country: US
+Billing Phone: +1.2083895740
+Billing Phone Ext:
+Billing Fax: +1.2083895771
+Billing Fax Ext:
+Billing Email: ccopsbilling@markmonitor.com
+Name Server: ns1.yahoo.com
+Name Server: ns2.yahoo.com
+Name Server: ns3.yahoo.com
+Name Server: ns5.yahoo.com
+Name Server: ns7.yahoo.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2021-03-16T19:03:05Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2021 Canadian Internet Registration Authority, (http://www.cira.ca/)
+[0;32m-------- RUNNING DIG ---------[0m
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.3 <<>> yahoo.ca
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60256
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;yahoo.ca.			IN	A
+
+;; ANSWER SECTION:
+yahoo.ca.		1081	IN	A	98.136.103.23
+yahoo.ca.		1081	IN	A	212.82.100.150
+yahoo.ca.		1081	IN	A	74.6.136.150
+
+;; Query time: 0 msec
+;; SERVER: 142.104.75.2#53(142.104.75.2)
+;; WHEN: Tue Mar 16 12:04:23 PDT 2021
+;; MSG SIZE  rcvd: 85
+
+[0;32m----------- end --------------[0m

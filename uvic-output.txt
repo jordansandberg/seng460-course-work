@@ -1,0 +1,143 @@
+Gathering information on uvic.ca
+[0;32m--- CHECKING FOR HEARTBEAT ---[0m
+PING uvic.ca (142.104.197.120) 56(84) bytes of data.
+64 bytes from wwwlbserver.uvic.ca (142.104.197.120): icmp_seq=1 ttl=249 time=0.317 ms
+
+--- uvic.ca ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.317/0.317/0.317/0.000 ms
+[0;34muvic.ca HAS A STABLE CONNECTION[0m
+[0;32m----- RUNNING TRACEROUTE -----[0m
+traceroute to uvic.ca (142.104.197.120), 30 hops max, 60 byte packets
+ 1  gateway (142.104.81.1)  0.416 ms  0.412 ms  0.592 ms
+ 2  192.168.9.5 (192.168.9.5)  0.254 ms  0.206 ms  0.161 ms
+ 3  192.168.10.1 (192.168.10.1)  0.538 ms  0.543 ms  0.552 ms
+ 4  192.168.8.6 (192.168.8.6)  0.446 ms  0.445 ms  0.449 ms
+ 5  142.104.100.149 (142.104.100.149)  7.321 ms  7.322 ms  7.280 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+[0;32m------- RUNNING WHOIS --------[0m
+Domain Name: uvic.ca
+Registry Domain ID: D15290-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2021-01-22T16:02:09Z
+Creation Date: 2000-10-02T20:46:49Z
+Registry Expiry Date: 2029-04-07T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R3308-CIRA
+Registrant Name: University of Victoria
+Registrant Organization:
+Registrant Street: 3045 Network Services Clearihue Building
+Registrant City: Victoria
+Registrant State/Province: BC
+Registrant Postal Code: V8W3P4
+Registrant Country: CA
+Registrant Phone: +1.2504724825
+Registrant Phone Ext:
+Registrant Fax: +1.2507218778
+Registrant Fax Ext:
+Registrant Email: rkozsan@uvic.ca
+Registry Admin ID: C853141-CIRA
+Admin Name: Jane Godfrey
+Admin Organization: University of Victoria
+Admin Street: 3045 Network Services Clearihue Building
+Admin City: Victoria
+Admin State/Province: BC
+Admin Postal Code: V8W3P4
+Admin Country: CA
+Admin Phone: +1.2507217673
+Admin Phone Ext:
+Admin Fax: +1.2507218778
+Admin Fax Ext:
+Admin Email: jgodfrey@uvic.ca
+Registry Tech ID: C853142-CIRA
+Tech Name: UVic NOC
+Tech Organization: University of Victoria
+Tech Street: 3045 Network Services Clearihue Building
+Tech City: Victoria
+Tech State/Province: BC
+Tech Postal Code: V8W3P4
+Tech Country: CA
+Tech Phone: +1.2507217654
+Tech Phone Ext:
+Tech Fax: +1.2507218778
+Tech Fax Ext:
+Tech Email: netadmin@uvic.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: dns1.uvic.ca
+Name Server: dns2.uvic.ca
+Name Server: ns4.uvic.ca
+Name Server: ns5.uvic.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2021-03-16T19:05:06Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2021 Canadian Internet Registration Authority, (http://www.cira.ca/)
+[0;32m-------- RUNNING DIG ---------[0m
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.3 <<>> uvic.ca
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12815
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;uvic.ca.			IN	A
+
+;; ANSWER SECTION:
+uvic.ca.		153	IN	A	142.104.197.120
+
+;; Query time: 0 msec
+;; SERVER: 142.104.75.2#53(142.104.75.2)
+;; WHEN: Tue Mar 16 12:05:06 PDT 2021
+;; MSG SIZE  rcvd: 52
+
+[0;32m----------- end --------------[0m
